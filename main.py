@@ -84,7 +84,7 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1>🏥 Health Insurance Cost Predictor</h1>
+    <h1>🏥 Health Insurance Premium Predictor</h1>
     <p style="font-size: 1.2rem; margin: 0;">AI-Powered Insurance Cost Estimation Tool</p>
 </div>
 """, unsafe_allow_html=True)
