@@ -128,7 +128,7 @@ Feel free to contribute to improve the application:
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the Apache License.
 
 ## 🆘 Support
 
