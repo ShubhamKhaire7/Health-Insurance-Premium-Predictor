@@ -1,5 +1,7 @@
 # 🏥 Health Insurance Premium Predictor
 
+Link - https://sk-health-insurance-premium-predictor.streamlit.app/
+
 A professional, AI-powered web application that predicts health insurance costs using machine learning algorithms. Built with Streamlit and Python, this app provides accurate cost estimates based on comprehensive health and personal factors.
 
 ## ✨ Features
