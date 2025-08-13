@@ -1,4 +1,4 @@
-# 🏥 Health Insurance Cost Predictor
+# 🏥 Health Insurance Premium Predictor
 
 A professional, AI-powered web application that predicts health insurance costs using machine learning algorithms. Built with Streamlit and Python, this app provides accurate cost estimates based on comprehensive health and personal factors.
 
