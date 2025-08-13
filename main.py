@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="Health Insurance Cost Predictor",
+    page_title="Health Insurance Premium Predictor",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
